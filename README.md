@@ -1,2 +1,2 @@
 # QuesoEdam
-Primer repo en remoto
+Primer queso en remoto
